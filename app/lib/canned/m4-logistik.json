@@ -1,0 +1,23 @@
+{
+  "kunde": {
+    "firma": "Logistik Ost GmbH",
+    "anrede": "Herr",
+    "name": "Markus Schneider",
+    "email": "schneider@logistik-ost.de",
+    "strasse": "Industriestraße 22",
+    "plz_ort": "15230 Frankfurt/Oder"
+  },
+  "anwendungsfall": "Robuste PU-Bodenbeschichtung Standard für neue Lagerhalle, ca. 1.200 m².",
+  "positionen": [
+    {
+      "produktbeschreibung_kunde": "Robuste PU-Bodenbeschichtung Standard für 1.200 m² Lagerhalle",
+      "artikelnummer_vorschlag": "PURFLEX-S400",
+      "kategorie": "Polyurethan",
+      "menge": 800,
+      "einheit": "kg"
+    }
+  ],
+  "sonderwuensche": "Liefertermin anfragen.",
+  "confidence": 0.88,
+  "begruendung_kurz": "'PU-Bodenbeschichtung Standard' entspricht direkt PURFLEX-S400. Fläche (1.200 m²) und Menge (800 kg) sind explizit."
+}

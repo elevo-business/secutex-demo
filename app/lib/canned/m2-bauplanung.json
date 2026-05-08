@@ -1,0 +1,23 @@
+{
+  "kunde": {
+    "firma": "Bauplanung Weber GmbH",
+    "anrede": "Herr",
+    "name": "Dr. Klaus Weber",
+    "email": "k.weber@bauplanung-stuttgart.de",
+    "strasse": "Hauptstraße 88",
+    "plz_ort": "70173 Stuttgart"
+  },
+  "anwendungsfall": "UV-stabile Polyurea-Beschichtung für Sanierung eines Flachdachs, ca. 450 m².",
+  "positionen": [
+    {
+      "produktbeschreibung_kunde": "UV-stabile Polyurea-Dachbeschichtung für 450 m² Flachdach",
+      "artikelnummer_vorschlag": "PUREA-UV200",
+      "kategorie": "Polyurea",
+      "menge": 600,
+      "einheit": "kg"
+    }
+  ],
+  "sonderwuensche": "Lieferzeit anfragen.",
+  "confidence": 0.9,
+  "begruendung_kurz": "UV-stabile Polyurea für Flachdach trifft eindeutig auf PUREA-UV200. Fläche (450 m²) und Menge (600 kg) sind klar benannt."
+}

@@ -1,0 +1,23 @@
+{
+  "kunde": {
+    "firma": "Molkerei Hofmeier KG",
+    "anrede": "Frau",
+    "name": "Anna Hofmeier",
+    "email": "a.hofmeier@molkerei-hofmeier.de",
+    "strasse": "Dorfstraße 4",
+    "plz_ort": "84034 Landshut"
+  },
+  "anwendungsfall": "Lebensmittelechte Innenbeschichtung eines Lagertanks in einer Molkerei, Innenfläche ca. 95 m².",
+  "positionen": [
+    {
+      "produktbeschreibung_kunde": "Lebensmittelechte Polyurea-Innenbeschichtung für Lagertank, ca. 95 m² Innenfläche",
+      "artikelnummer_vorschlag": "PUREA-FC80",
+      "kategorie": "Polyurea",
+      "menge": 130,
+      "einheit": "kg"
+    }
+  ],
+  "sonderwuensche": "Konformität EU 10/2011 / Lebensmittelkontakt erforderlich.",
+  "confidence": 0.93,
+  "begruendung_kurz": "Anforderung 'lebensmittelecht' für Tankinnenbeschichtung passt exakt zu PUREA-FC80 (EU 10/2011). Fläche und Menge sind explizit angegeben."
+}

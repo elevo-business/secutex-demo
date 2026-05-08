@@ -1,0 +1,23 @@
+{
+  "kunde": {
+    "firma": null,
+    "anrede": null,
+    "name": null,
+    "email": null,
+    "strasse": null,
+    "plz_ort": null
+  },
+  "anwendungsfall": "Allgemeine Anfrage zu Polyurea-/PU-Beschichtung. Details konnten ohne Live-LLM nicht eindeutig extrahiert werden.",
+  "positionen": [
+    {
+      "produktbeschreibung_kunde": "Beschichtung gemäß Kunden-Anfrage",
+      "artikelnummer_vorschlag": null,
+      "kategorie": null,
+      "menge": null,
+      "einheit": null
+    }
+  ],
+  "sonderwuensche": "Demo-/Fallback-Daten — bitte vor Versand durch Vertrieb prüfen.",
+  "confidence": 0.5,
+  "begruendung_kurz": "Canned-Fallback ohne mailId-Match: keine sichere Produktzuordnung möglich, manuelle Prüfung empfohlen."
+}

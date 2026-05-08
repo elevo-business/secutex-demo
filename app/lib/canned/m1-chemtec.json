@@ -1,0 +1,23 @@
+{
+  "kunde": {
+    "firma": "Chemtec Industries GmbH",
+    "anrede": "Herr",
+    "name": "Thomas Müller",
+    "email": "t.mueller@chemtec-leverkusen.de",
+    "strasse": "Bayer-Allee 12",
+    "plz_ort": "51368 Leverkusen"
+  },
+  "anwendungsfall": "Chemikalienbeständige Polyurea-Bodenbeschichtung für Industrieboden im neuen Werk Leverkusen, ca. 180 m², regelmäßiger Kontakt mit Säuren und Laugen, Schichtdicke 2 mm.",
+  "positionen": [
+    {
+      "produktbeschreibung_kunde": "Polyurea chemikalienbeständig für 180 m² Industrieboden, Schichtdicke 2 mm",
+      "artikelnummer_vorschlag": "PUREA-CR150",
+      "kategorie": "Polyurea",
+      "menge": 250,
+      "einheit": "kg"
+    }
+  ],
+  "sonderwuensche": "Lieferung idealerweise in 4–5 Wochen.",
+  "confidence": 0.92,
+  "begruendung_kurz": "Eindeutige Beschreibung (chemikalienresistent, Säuren/Laugen) trifft direkt auf PUREA-CR150. Menge (250 kg) und Fläche (180 m²) sind explizit genannt."
+}

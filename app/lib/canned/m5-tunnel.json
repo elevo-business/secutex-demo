@@ -1,0 +1,23 @@
+{
+  "kunde": {
+    "firma": "Tunnelbau AG",
+    "anrede": "Herr",
+    "name": "Peter Berger",
+    "email": "p.berger@tunnel-bau-ag.at",
+    "strasse": "Wienerstraße 145",
+    "plz_ort": "1230 Wien"
+  },
+  "anwendungsfall": "Flammhemmende Polyurea-Beschichtung nach DIN EN 13501-1 für eine Tunnelsanierung.",
+  "positionen": [
+    {
+      "produktbeschreibung_kunde": "Flammhemmende Polyurea-Beschichtung nach DIN EN 13501-1 für Tunnelsanierung",
+      "artikelnummer_vorschlag": "PUREA-FR110",
+      "kategorie": "Polyurea",
+      "menge": 400,
+      "einheit": "kg"
+    }
+  ],
+  "sonderwuensche": "Vergabe in 2 Wochen — zeitnahes Angebot erforderlich.",
+  "confidence": 0.94,
+  "begruendung_kurz": "Anforderung 'flammhemmend, DIN EN 13501-1' trifft eindeutig auf PUREA-FR110. Menge (400 kg) ist explizit genannt."
+}
