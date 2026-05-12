@@ -4,7 +4,8 @@ RUN apk add --no-cache libc6-compat
 WORKDIR /app
 
 COPY package.json package-lock.json* ./
-RUN npm ci
+# --include=dev: überschreibt Coolify's build-time NODE_ENV=production, damit devDeps (tailwind etc.) installiert werden
+RUN npm ci --include=dev
 
 # ─── Stage 2: Build ─────────────────────────────────────────────────────
 FROM node:20-alpine AS builder
